@@ -1,4 +1,4 @@
-print("Welcome to the grade sorter App")
+print("Welcome to the grade sorter app")
 
 grade = []
 for g in range(1,5):
