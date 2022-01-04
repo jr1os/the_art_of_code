@@ -1,4 +1,4 @@
-print("Welcome to the temperature conversion program.")
+print("Welcome To The Temperature conversion Program.")
 temp_f = float(input("what is the given temperature in degrees fahrenheit: "))
 temp_c = ((temp_f - 32) * 5) / 9
 temp_k = temp_c + 273.15
