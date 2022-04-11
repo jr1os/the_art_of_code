@@ -1,0 +1,27 @@
+{
+    "ides": [
+        "vscode",
+        "eclipse",
+        "netbeans ide",
+        "pycharm",
+        "phpstorm"
+    ],
+    "language": [
+        {
+            "name": "python",
+            "version": "3.8.0"
+        },
+        {
+            "name": "golang",
+            "version": "1.18"
+        },
+        {
+            "name": "javascript",
+            "version": "es6"
+        },
+        {
+            "name": "php",
+            "version": "7.1.2"
+        }
+    ]
+}
